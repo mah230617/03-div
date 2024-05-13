@@ -1,0 +1,29 @@
+section{
+    text-align: center;
+}  
+div {
+    display: inline-block;                
+    width: 140px;
+    height: 140px;
+    margin: -1px;                                        
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+#blackborder {
+   border: 1px solid black;
+}
